@@ -1,0 +1,218 @@
+<!-- SEO for main page -->{{#seo:keywords=chinese,chinese grammar,chinese grammar wiki,grammar wiki,grammar guide,learning chinese,learning chinese grammar,hanyu,hanyu grammar,china grammar,grammar,chinese wiki|description=A comprehensive, free resource for standard Chinese grammar, organized by difficulty and part of speech, with clear, practical examples of usage.}}
+[[File:Christmas-3books.jpg|800px|link=https://amzn.to/36aB0iT]]
+<!-- [[File:GrammarWikiBookTrilogy.png|800px|link=https://amzn.to/36aB0iT]][[File:B2-print-book.png|800px|link=https://amzn.to/3ctR1SR]] -->
+Both our [https://amzn.to/2WRsmAx '''B2 Kindle version'''] and our [https://amzn.to/3ctR1SR '''B2 print version'''] are available '''now'''!
+
+<span style="font-size:120%">Your practical, free, ''comprehensive'' online resource for Chinese grammar. '''[[Special:Statistics|{{NUMBEROFARTICLES}}]] articles''' and growing! '''Jump to: [[A1]], [[A2]], [[B1]], [[B2]], [[C1]].''' Or: [[HSK 1]], [[HSK 2]], and [[HSK 3]].</span>
+
+==[[A1|Beginner-Friendly Grammar Points]]==
+
+'''[[A1 grammar points]]''': Our list is designed especially for '''beginners''', all difficult vocabulary and grammar banished to the later levels. Easy examples, each one with pinyin. Try clicking on one of the images below:
+
+<div class="grampt-img clearfix">
+[[File:Chinese-grammar-wiki-you.jpg|200px|link=ASGOOCVO|有 (yǒu)]]
+[[File:Chinese-grammar-wiki-Meiyou.jpg|200px|link=ASGPNV3Q|没有 (méiyǒu)]]
+[[File:Chinese-grammar-wiki-ye.jpg|200px|link=ASGG25MD|也 (yě)]]
+[[File:Chinese-grammar-wiki-shi.jpg|200px|link=ASGUN7RX|是 (shì)]]
+[[File:Chinese-grammar-wiki-hen.jpg|200px|link=ASG17BLH|很 (hěn)]]
+[[File:Chinese-grammar-wiki-yao.jpg|200px|link=ASGXVEAR|要 (yào)]]
+</div>
+
+[[A1 grammar points|See the full list of '''{{#ask: [[Level::A1]]  | format=count }} A1 grammar points'''...]]
+
+==[[A2|Essential Elementary Grammar Points]]==
+
+'''[[A2 grammar points]]''': So you've learned some basic grammar, but still need pinyin and want to build a stronger foundation? You've come to the right place! Check out some of the following pages:
+
+<div class="grampt-img clearfix">
+[[File:Chinese-grammar-wiki-bi.jpg|200px|link=ASG8SI2K|比 (bi)]]
+[[File:Chinese-grammar-wiki-xia.jpg|200px|link=ASGWCESP|下 (xia)]]
+[[File:在 (zài).jpeg|200px|link=ASGX0Z0N|在 (zài)]]
+[[File:Chinese-grammar-wiki-le.jpg|200px|link=ASGT185D|了 (le)]]
+[[File:Chinese-grammar-wiki-guo.jpg|200px|link=ASGQGV3P|过 (guo)]]
+[[File:Chinese-grammar-wiki-Ba.jpg|200px|link=ASGJIP2E|吧 (ba)]]
+</div>
+
+[[A2 grammar points|See the full list of '''{{#ask: [[Level::A2]]  | format=count }} A2 grammar points'''...]]
+
+==[[B1|Accessible Intermediate Grammar Points]]==
+
+'''[[B1 grammar points]]''': For when you're ready to really consolidate your grammar knowledge and fill in the gaps, but really don't want to slog through a grammar textbook. Our self-contained grammar points give you just the right amount to work on. 
+
+<div class="grampt-img clearfix">
+[[File:Chinese-grammar-wiki-you-2.jpg|200px|link=ASGN1JR5|又 (you)]]
+[[File:Chinese-grammar-wiki-ba3.jpg|200px|link=ASG2UB2B|把 (ba)]]
+[[File:Chinese-grammar-wiki-cai.jpg|200px|link=ASGLOS9C|才 (cai)]]
+[[File:Chinese-grammar-wiki-zai-2.jpg|200px|link=ASGIZQJ2|再 (zai)]]
+[[File:Chinese-grammar-wiki-bei4.jpg|200px|link=ASGHF9F1|被 (bei)]]
+[[File:Chinese-grammar-wiki-wei.jpg|200px|link=ASG68RBX|为 (wei)]]
+</div>
+
+[[B1 grammar points|See the full list of '''{{#ask: [[Level::B1]]  | format=count }} B1 grammar points'''...]]
+
+==[[B2|Upgrading to Upper Intermediate]]==
+
+'''[[B2 grammar points]]''': These aren't easy, and often involve more formal language or finer points of the more basic grammar points. It's getting hard to find explanations that really address your needs, but this is one place you can find them! 
+
+<div class="grampt-img clearfix">
+[[File:Chinese-grammar-wiki-er.jpg|200px|link=ASGMX0ZS|而 (er)]]
+[[File:Chinese-grammar-wiki-dao-2.jpg|200px|link=ASG1RE80|倒 (dao)]]
+[[File:Chinese-grammar-wiki-xiang.jpg|200px|link=ASG1MD4N|像 (xiang)]]
+[[File:Chinese-grammar-wiki-cha.jpg|200px|link=ASGGOUJB|差 (cha)]]
+[[File:Chinese-grammar-wiki-bing.jpg|200px|link=ASGUQUPG|并 (bing)]]
+[[File:Chinese-grammar-wiki-Jiushi.jpg|200px|link=ASGK213C|就是 (jiushi)]]
+</div>
+
+[[B2 grammar points|See the full list of '''{{#ask: [[Level::B2]]  | format=count }} B2 grammar points'''...]]
+
+==Ready for the really advanced stuff?==
+
+Our [[C1 grammar points]] are still a work in progress (there are {{#ask: [[Level::C1]]  | format=count }} so far), but if you'd like to help edit them, [[Contact|please get in touch]].
+
+==Need Help with Pinyin?==
+
+[[File:Popup-Plugins-3.png|link=Tools#Browser Extensions: Pinyin Popups|left|Pinyin Popup Plugins]]
+
+All of our [[A1]] and [[A2]] grammar points have pinyin throughout, but if you want pinyin for ''all'' the Chinese characters in this wiki, you can do that using '''[[Tools#Browser Extensions: Pinyin Popups|free browser plugins]]'''. Also try clicking on the little cog at the top right of any page to add spaces between characters. 
+
+Try it out with this: <span class="liju">你 会 中文 吗 ？</span><br clear="all" />
+
+[[File:JTB-ebook-600 388.png|600px|link=https://store.allsetlearning.com/catalog/chinese-grammar-wiki-book-just-the-basics_31/]] <!-- Just the Basics book -->
+
+==[[Basic sentence order|Need Help with Chinese Word Order?]]==
+
+There's a lot of confusion out there about how similar Chinese word order and English worder really are. This video will set you straight:
+
+<div class="YT-container"><youtube>uBaamGzhGuE</youtube></div>
+
+For more details, please read our A1 article on [[basic sentence order]].
+
+==[[Keywords|Chinese Keywords]]==
+
+Certain Chinese words appear in lots of different grammar points. Get clear on how these words work in different ways by examining the keyword pages. Here are some examples to get you started:
+
+<div class="flat" style="font-size:120%">
+* [[了|了 (le)]]
+* [[不|不 (bù)]]
+* [[是|是 (shì)]]
+* [[就|就 (jìu)]]
+* [[都|都 (dōu)]]
+* [[也|也 (yě)]]
+* [[来|来 (lái)]]
+* [[的|的 (de)]]
+* [[得|得 (de)]]
+* [[还|还 (hái)]]
+* [[有|有 (yǒu)]]
+* [[好|好 (hǎo)]]
+* [[要|要 (yào)]]
+* [[于|于 (yú)]]
+* [[对|对 (duì)]]
+* [[多|多 (duō)]]
+* [[可|可 (kě)]]
+* [[没|没 (méi)]]
+* [[以|以 (yǐ)]]
+* [[在|在 (zài)]]
+* [[到|到 (dào)]]
+* [[没有|没有 (méiyǒu)]]
+* [[给|给 (gěi)]]
+* [[过|过 (guò)]]
+* [[去|去 (qù)]]
+* [[以后|以后 (yǐhòu)]]
+* [[再|再 (zài)]]
+* [[点|点 (diǎn)]]
+* [[什么|什么 (shénme)]]
+* [[为|为 (wèi, wéi)]]
+* [[下|下 (xià)]]
+* [[又|又 (yòu)]]
+* [[因为|因为 (yīnwèi)]]
+* [[怎么|怎么 (zěnme)]]
+</div>
+
+There are about [[Keywords|400 Chinese keywords in the full list]]. Check it out.
+
+==[[Translations|English Translations]]==
+
+Sometimes it's useful to start with English words and look at the different ways those English words can be translated into Chinese. Here are some English words worth a closer look in translation:
+
+<div class="flat" style="font-size:110%">
+* [[also]]
+* [[and]]
+* [[at]]
+* [[but]]
+* [[both]]
+* [[can]]
+* [[if]]
+* [[then]]
+* [[in]]
+* [[very]]
+* [[or]]
+* [[after]]
+* [[all]]
+* [[always]]
+* [[have]]
+* [[just]]
+* [[because]]
+* [[for]]
+* [[more]]
+* [[want]]
+* [[about]]
+* [[again]]
+* [[almost]]
+* [[although]]
+* [[either]]
+* [[every]]
+* [[go]]
+* [[later]]
+* [[really]]
+* [[too]]
+* [[will]]
+* [[able]]
+* [[already]]
+* [[before]]
+* [[etc.]]
+* [[how]]
+* [[however]]
+* [[is]]
+* [[less]]
+* [[need]]
+* [[so]]
+* [[some]]
+* [[therefore]]
+* [[when]]
+</div>
+
+There are about [[Translations|100 English translation words in the full list]]. Check it out.
+
+==We've Got Your Textbooks and Grammar Books Covered==
+
+It's not yet time to throw out those textbooks! We all use the internet for everything now, but we see also the value in textbook grammar explanations and exercises, and are doing our best to link textbooks to our own Chinese Grammar Wiki content.  To see how it works, '''click on one of the book covers below''' or [[Chinese textbook grammar index#Textbooks|'''try finding your own textbook in our list''']], and then seeing what it links to. 
+
+<div class="flat" style="font-size:110%">
+* [[Reference:Integrated_Chinese:_Level_1,_Part_1_(3rd_ed)|Integrated Chinese: Level 1, Part 1 (3rd_ed)]]
+* [[Reference:New_Practical_Chinese_Reader_1_(新实用汉语课本1)|New Practical Chinese Reader 1 (新实用汉语课本1)]]
+* [[Reference:Modern_Mandarin_Chinese_Grammar:_A_Practical_Guide|Modern Mandarin Chinese Grammar: A Practical Guide]]
+* [[Reference:Basic_Patterns_of_Chinese_Grammar|Basic Patterns of Chinese Grammar]]
+</div>
+
+<!-- (Hidden Oct. 2018 because the image links keep breaking, for some reason!) <div class="grampt-img plainlinks clearfix">
+[[Reference:Basic_Patterns_of_Chinese_Grammar|<img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&ASIN=1933330899&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=allset-20" />]]
+[[Reference:Integrated_Chinese:_Level_1,_Part_1_(3rd_ed)|<img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=0887276385&MarketPlace=US&ID=AsinImage&WS=1&tag=allset-20&ServiceVersion=20070822" />]]
+[[Reference:Modern_Mandarin_Chinese_Grammar:_A_Practical_Guide|<img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=0415700108&MarketPlace=US&ID=AsinImage&WS=1&tag=allset-20&ServiceVersion=20070822" />]]
+[[Reference:Basic_Chinese_-_A_Grammar_and_Workbook|<img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&ASIN=0415472156&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=allset-20" />]]
+[[Reference:Mandarin_Chinese:_A_Functional_Reference_Grammar|<img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=0520066103&MarketPlace=US&ID=AsinImage&WS=1&tag=allset-20&ServiceVersion=20070822" />]]
+[[Reference:Yufa!_A_Practical_Guide_to_Mandarin_Chinese_Grammar|<img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1444109138&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=allset-20" />]]
+[[Reference:New_Practical_Chinese_Reader_1_(新实用汉语课本1)|<img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&ASIN=7561910401&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=allset-20" />]]
+</div> -->
+
+''Purchasing a book on Amazon by clicking on the links within this website will also help to support the Chinese Grammar Wiki.''
+
+== About AllSet Learning ==
+
+[http://www.allsetlearning.com/ AllSet Learning] is a Shanghai-based learning consultancy dedicated to helping foreigners better learn Mandarin Chinese.  This wiki is maintained by [https://plus.google.com/104115976790023245464/?rel=author John Pasden] and the rest of the team at AllSet Learning.  While many of the company's services are only available to clients physically in Shanghai, this wiki is open to the public through a [http://creativecommons.org/licenses/by-nc-sa/3.0/ Creative Commons license].
+
+You can also find us [http://www.facebook.com/AllSetLearning on Facebook], [http://www.twitter.com/allsetlearning on Twitter], and [https://plus.google.com/b/113862655455378800247/113862655455378800247/about on Google+].
+
+'''All content on this wiki &copy; AllSet Learning, and may not be reproduced without attributions or used for commercial purposes.'''
+
+__NOTOC__
+[[Category:Grammar]]
